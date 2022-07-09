@@ -11,3 +11,8 @@
 # Official Partners
 *Our official partners and their links below. We support all our creators and do anything we can do to help the community out where we can!*
 * [San Andreas Ultimate](https://sau.te-dev.net/)
+
+# Project Members
+| Member        | Function/Title | Discord ID |
+| ------------- |-------------   |:-------------:|
+| Serena K.     | Director       | [871877975346405388](https://discordapp.com/users/871877975346405388/) |
