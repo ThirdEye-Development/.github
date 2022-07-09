@@ -1,2 +1,0 @@
-# ThirdEye Development
-*ThirdEye Development is a development group that specializes in creation of scripts that bring out the realism and interaction for your server. These scripts can be adjusted as the user wishes with very extensive config files. Allowing for basically unlimited customization of the scripts. It should be noted that the resource names should* ***NEVER*** *be changed from what they came with. This will most likely break things*
